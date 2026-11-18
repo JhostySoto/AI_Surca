@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+data/*.csv
+*.joblib
+.DS_Store
+
+# Archivos de asistente de IA (locales)
+CLAUDE.md
+.claude/
+
+# Editor y herramientas
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.coverage
+htmlcov/
